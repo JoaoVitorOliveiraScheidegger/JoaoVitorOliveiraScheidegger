@@ -3,11 +3,11 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=2500&pause=1&color=FFFFFF&vCenter=true&multiline=true&repeat=false&width=1000&height=50&separator=%3C&lines=+Tenho+21+anos+e+sou+natural+do+Esp%C3%ADrito+Santo.+Atualmente%2C+estou+cursando+Sistemas+de+Informa%C3%A7%C3%A3o+no+IFES;%3CAprendi+ingl%C3%AAs+de+maneira+autodidata+e+tenho+interesse+em+cyber+seguran%C3%A7a.)](https://git.io/typing-svg)
 
 <p align="left">
-	<a href="https://github.com/Farraelll?tab=followers">
+	<a href="https://github.com/JoaoVitorOliveiraScheidegger?tab=followers">
 		<img
 			alt="Seguidores"
 			title="Me siga no GitHub"
-			src="https://custom-icon-badges.demolab.com/github/followers/Farraelll?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+			src="https://custom-icon-badges.demolab.com/github/followers/JoaoVitorOliveiraScheidegger?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
 		/>
 	</a>
 </p>
@@ -74,15 +74,15 @@
 <p>
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Farraelll&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight"
+      srcset="https://github-readme-stats.vercel.app/api?username=JoaoVitorOliveiraScheidegger&show_icons=true&include_all_commits=true&locale=pt-br&theme=tokyonight"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api?username=Farraelll&show_icons=true&include_all_commits=true&locale=pt-br"
+      srcset="https://github-readme-stats.vercel.app/api?username=JoaoVitorOliveiraScheidegger&show_icons=true&include_all_commits=true&locale=pt-br"
       media="(prefers-color-scheme: light)"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api?username=Farraelll" 
+      src="https://github-readme-stats.vercel.app/api?username=JoaoVitorOliveiraScheidegger" 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
@@ -92,15 +92,15 @@
 
   <picture>
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Farraelll&layout=compact&custom_title=Tecnologias&langs_count=8&theme=tokyonight"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorOliveiraScheidegger&layout=compact&custom_title=Tecnologias&langs_count=8&theme=tokyonight"
       media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
     />
     <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Farraelll&layout=compact&custom_title=Tecnologias&langs_count=8"
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorOliveiraScheidegger&layout=compact&custom_title=Tecnologias&langs_count=8"
       media="(prefers-color-scheme: light)"
     />
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Farraelll" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoVitorOliveiraScheidegger" 
       align="left" 
       alt="Principais Linguagens" 
       height="200" 
